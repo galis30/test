@@ -1,2 +1,2 @@
 Toto je moj najkrajší súbor vytvorený vlastnými rukami.
-
+Pridal som riadok.
